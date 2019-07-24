@@ -1,0 +1,32 @@
+h1{
+    color: skyblue;
+}
+p{
+    color: skyblue;
+}
+label{
+    color: skyblue;
+}
+body{
+    color: beige;
+    width: 100%;
+    height: auto;
+}
+.card{
+    padding-top: 10px;
+    width: auto;
+    height: auto;
+}
+
+h5{
+    color: skyblue;
+}
+footer{
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:skyblue;
+    color: white;
+    text-align: center;
+}
